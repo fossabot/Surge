@@ -2,6 +2,7 @@
 __A php library for push notifications__
 
 [![Build Status](https://magnum.travis-ci.com/Minds/Surge.svg?token=vHzWaxguqXbJqkudCFTn&branch=master)](https://magnum.travis-ci.com/Minds/Surge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSurge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSurge?ref=badge_shield)
 
 ### Getting started
 
@@ -33,3 +34,7 @@ Then your app should be able to do the rest..
 ### Configure Google Push Notifications (GPN)
 
 Google makes things easier, all you need is an API key. Go to https://console.developers.google.com/ and enable Push Notifictions.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSurge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSurge?ref=badge_large)
